@@ -1,0 +1,17 @@
+title: Tickle_ext
+author: Marc Baguelin
+version: 1.0.0
+quarto-required: ">=1.2.0"
+contributes:
+  formats:
+    revealjs:
+      theme: [custom.scss, white]
+      slide-number: c/t
+      footer: |
+        MLGH day
+        |
+        odin, dust, mcstate and orderly
+        |
+        <a href="https://www.imperial.ac.uk/people/m.baguelin">Marc Baguelin</a>
+      logo: logo_modelling_hpru.png
+
